@@ -6,7 +6,7 @@ public class sampleTest {
 		// TODO Auto-generated method stub
 		//testing the code
 		
-		System.out.println("hi sample");
+		System.out.println("hi sample updated");
 	}
 
 }
